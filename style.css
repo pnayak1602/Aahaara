@@ -1,0 +1,158 @@
+body {
+    background: #023e8a;
+    font-family: "Nunito", sans-serif;
+}
+
+.AahaaraBrand{
+  font-family: 'Corinthia', cursive;
+  font-size: 27px; 
+}
+
+.navName{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar{
+    background-color:#03045e ;
+    color: #caf0f8;
+}
+
+.nav-link{
+    color: #caf0f8;
+}
+
+.navbar-brand{
+    color: #caf0f8;
+    font-size: 1.5rem;
+    font-weight: 100; 
+
+}
+
+.bg-cover {
+    background-size: cover !important;
+    height: 600px;
+}
+
+/* .gradient-custom {
+  background: #6a11cb;
+  background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+  background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+} */
+
+.heading{
+  font-family: 'Corinthia', cursive;
+  font-size: 5rem;
+}
+.slogan{
+  padding-top: 0px;
+}
+
+.btnWriting{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+
+
+.DAbtn{
+  padding-left: 38vw;
+  margin-bottom: 30px;
+}
+
+.btn{
+  margin-right: 10px;
+}
+
+.login{
+  background-color:#03045e ;
+}
+
+#button-addon1 {
+    color: #ffc371;
+  }
+  
+  i {
+    color: #ffc371;
+  }
+  
+  .form-control::placeholder {
+    font-size: 0.95rem;
+    color: #aaa;
+    font-style: italic;
+  }
+  
+  .form-control.shadow-0:focus {
+    box-shadow: none;
+  }
+  .text{
+    color:white;
+    margin: 8%;
+    justify-content: center;
+  }
+
+  .inHeading{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Corinthia', cursive;
+  }
+
+
+  .footer{
+    background-color: #caf0f8;
+    color: #03045e;
+    text-align: center;
+    padding: 4%;
+  }
+
+  .company{
+    display: inline-block;
+    margin:0.5%;
+    padding:1%;
+    /* font-family: 'Roboto Slab', serif; */
+    color: rgb(121, 147, 235);
+    text-align: center;
+    /* margin: 0 3.2% 0 3.2%; */
+  }
+
+  .logo{
+    font-size: 3rem;
+    color: rgb(121, 147, 235);
+  }
+
+  .hash{
+    font-size: 15px;
+    text-align: center;
+    color: #03045e;
+  }
+
+  .insta{
+    color: rgb(189, 1, 95);
+    margin-top: 2%;
+    margin-right: 2%;
+    font-size: 2rem;
+  }
+
+  .twitter{
+    color: blue;
+    margin-top: 2%;
+    margin-right: 2%;
+    font-size: 2rem;
+  }
+
+  .facebook{
+    color: rgb(6, 6, 105);
+    margin-top: 2%;
+    margin-right: 2%;
+    font-size: 2rem;
+  }
+
+  .mail{
+    margin-top: 2%;
+    margin-right: 2%;
+    font-size: 2rem;
+    color: black;
+  }
+
+  .copyright{
+    padding: 10px;
+    color: grey;
+  }

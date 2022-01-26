@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(36, 24, 90);
+}
+.text{
+    color: white;
+    font-size: medium;
+    font-family: 'Merriweather', serif;
+}
+.Aahaara{
+    font-family: 'Corinthia', cursive;
+    font-size: 4rem;
+    color: white;
+    text-align: center;
+}
